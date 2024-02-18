@@ -1,0 +1,11 @@
+1. DNN (VGG16)
+2. Xử lí dữ liệu thời gian ARIMA
+3. Xử lí Imbance Data SMOTE
+4. Object Detection
+5. Classification(*)
+
+tìm tài liệu google scholar, download : scihub
+
+- Sau khi nghiên cứu xong, viết báo cáo = Latex (Overleaf)
+
+--> Deadline tuần 8
